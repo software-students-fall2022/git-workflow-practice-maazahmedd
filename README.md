@@ -5,3 +5,6 @@ On a more serious note, the article indicates how companies which have a long in
 
 ## Comment from Brandon Chao
 It's interesting to see that when companies invest so many resources into finding their "ideal" candidate, they end up empty-handed because they made the hiring process so complex. One interview is most likely not enough to gauge an applicant, but these companies are scheduling excessive interviews for almost no reason. Especially when even the HR department doesn't even know when the "final round" of interviews would be. Besides driving applicants away, this process is a poor investment with diminishing returns for the companies themselves. 
+
+><b>Comment</b> <i>By Fatema Nassar</i> <br> I have been hearing that idea of the lazy software engineer being the best for a long time but i never thought they would also be lazy while applying to jobs! I makes me want to believe being lazy in the job application process means i will make a good software engineer :'D
+
